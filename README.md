@@ -19,6 +19,8 @@ You can see the model’s predictions for 2020
 read how it works
 [here](https://projects.economist.com/us-2020-forecast/president/how-this-works).
 
+[This paper](https://hdsr.mitpress.mit.edu/pub/nw1dzd02/release/1) provides a more formal description of our statistical model than is available elsewhere. While more thorough, the model code posted on the GitHub page should be seen as the authoritative source of how the model works, following the principle that ‘code never lies.’
+
 ## File dictionary
 
 In terms of useful files, you should pay attention to the 3 scripts for
